@@ -1,6 +1,6 @@
 
 # Wanderlust
-Welcome to Wanderlust , where you can create and manage your own listings also you can give your feedbacks with comments and ratings. 
+Welcome to Wanderlust , where you can create and manage your own listings also you can give your feedbacks with comments and ratings. The platform allows authenticated users to comment on and rate other listings with a star system. Robust authentication and authorization ensure secure user interactions and data protection. 
 
 
 ## Table of Contents
