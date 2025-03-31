@@ -13,7 +13,7 @@ Welcome to Wanderlust , where you can create and manage your own listings also y
 ## Features
 - ##### User Login & Logout
 - ##### Comment & Rating Section
-- ##### Create Your Own Listings
+- ##### User Authentication with Passport
 - ##### Perform CRUD operations
 
 
