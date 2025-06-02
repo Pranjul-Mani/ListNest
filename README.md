@@ -1,6 +1,6 @@
 
-# Wanderlust
-Welcome to Wanderlust , where you can create and manage your own listings also you can give your feedbacks with comments and ratings. 
+# ListNest
+Welcome to ListNest , where you can create and manage your own listings also you can give your feedbacks with comments and ratings. The platform allows authenticated users to comment on and rate other listings with a star system. Robust authentication and authorization ensure secure user interactions and data protection. 
 
 
 ## Table of Contents
@@ -13,7 +13,7 @@ Welcome to Wanderlust , where you can create and manage your own listings also y
 ## Features
 - ##### User Login & Logout
 - ##### Comment & Rating Section
-- ##### Create Your Own Listings
+- ##### User Authentication with Passport
 - ##### Perform CRUD operations
 
 
@@ -35,7 +35,7 @@ Welcome to Wanderlust , where you can create and manage your own listings also y
 Deployed this project on render
 
 ```bash
-  https://wanderlust-mku5.onrender.com/listings
+  https://listnest-jtzz.onrender.com/listings
 ```
 
 
