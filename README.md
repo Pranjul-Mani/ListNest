@@ -35,7 +35,7 @@ Welcome to ListNest , where you can create and manage your own listings also you
 Deployed this project on render
 
 ```bash
-  https://wanderlust-mku5.onrender.com/listings
+  https://listnest-jtzz.onrender.com/listings
 ```
 
 
